@@ -6,30 +6,29 @@ Abajo se dispne de todos los links a los proyectos en el Tinkercad, sus explicac
 
 # Integrantes
 
-.Alejo Valentin podbielski.
+--------------------------Alejo Valentin podbielski--------------------------
 
-.Matias Gabriel Wolf.
+--------------------------Matias Gabriel Wolf--------------------------
 
-:Enzo Paredes VEron.
+--------------------------Enzo Paredes VEron--------------------------
 
 
 # Links a los tinkercad
 
-Parte 1 = https://www.tinkercad.com/things/apv1Z6WQKdl   
+--------------------------Parte 1 = https://www.tinkercad.com/things/apv1Z6WQKdl   ----------------------------------
 
-Parte 2 = https://www.tinkercad.com/things/9FTrGU9f1I2
+--------------------------Parte 2 = https://www.tinkercad.com/things/9FTrGU9f1I2   ----------------------------------
 
-Parte 3 = https://www.tinkercad.com/things/5JMzziEWGIy
+--------------------------Parte 3 = https://www.tinkercad.com/things/5JMzziEWGIy   ----------------------------------
 
-Parte 4 = https://www.tinkercad.com/things/dlmMG9l5IXh
-
+--------------------------Parte 4 = https://www.tinkercad.com/things/dlmMG9l5IXh   ----------------------------------
 
 
 # Explicacion de cada Parte
 
+
 .Parte 3 (Motor CC):
-Un motor de corriente continua ("CC" o "DC", por sus iniciales en ingles direct current) es una maquina que convierte energia electrica en mecanica, lo cual provoca un movimiento rotatorio debido a la accion de un campo magnetico.
-Este mismo esta conformado principalmente por dos partes:
+Un motor de corriente continua ("CC" o "DC", por sus iniciales en ingles direct current) es una maquina que convierte energia electrica en mecanica, lo cual provoca un movimiento rotatorio debido a la accion de un campo magnetico.Este mismo esta conformado principalmente por dos partes:
 *El estátor, el cual es la parte fija/carcasa exterior de la maquina que permite crear un campo magnético.
 *El rotor, es la parte interior de la maquina, el cual gira, alimentado con corriente directa a traves de delgas (laminas de cobre), que estan en contacto alternante con escobillas fijas.
 Estos componentes juntos forman el conjunto fundamental para la transmision de potencia en el motor.
