@@ -2,20 +2,30 @@
 
 Abajo se dispne de todos los links a los proyectos en el Tinkercad, sus explicaciones y usos.
 
+
+
 # Integrantes
 
 .Alejo Valentin podbielski.
+
 .Matias Gabriel Wolf.
+
 :Enzo Paredes VEron.
+
 
 # Links a los tinkercad
 
-Parte 1 = https://www.tinkercad.com/things/apv1Z6WQKdl
+Parte 1 = https://www.tinkercad.com/things/apv1Z6WQKdl   
+
 Parte 2 = https://www.tinkercad.com/things/9FTrGU9f1I2
+
 Parte 3 = https://www.tinkercad.com/things/5JMzziEWGIy
+
 Parte 4 = https://www.tinkercad.com/things/dlmMG9l5IXh
 
-#Explicacion de cada Parte
+
+
+# Explicacion de cada Parte
 
 .Parte 3 (Motor CC):
 Un motor de corriente continua ("CC" o "DC", por sus iniciales en ingles direct current) es una maquina que convierte energia electrica en mecanica, lo cual provoca un movimiento rotatorio debido a la accion de un campo magnetico.
