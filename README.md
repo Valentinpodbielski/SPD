@@ -39,5 +39,8 @@ Nuestro grupo penso en integrar el motor CC de manera que se prenda unicamente c
 En la parte del proyecto en la que habia que agragar un sensor, optamos por el sensor de fuerza, en la que junto con los dos displyas, se Logran mostrar 3 fuerzas en equivalencias diferentes. Es decir, que al prender el arduino se muestra en los display la fuerza que se esta ejerciendo en el sensor en kilogramos, si apretamos el interruptor se muestra la lectura del sensor en libras y se apreta otra vez, se muestra en onzas. Si se quiere apretar de nuevo, la fuerza a mostrar vuelve a ser en kilogramos. El sensor tiene limitaciones, y su rango de peso es de 30 gramos a 1 kilogramo. Se puede decir que esta fabricado de dos capas separadas por un espaciador, cuanto mas se preciona mas puntos de elemento activo tocan el semiconductor.
 
 # Practico del Parcial
+
+Lo que hice en este proyecto es agregar al arduino un Sensor de luz Ambiental, en la que su funcion es prender o apagar los Display depende de la intensidad de luz que capte. Al haber poca luz se encienden los Display y si hay mucha luz se apagan. El funcionamiento del sensor no modifica lo otro, ya que el valor del contador sigue intacto y los numeros primos siguen aumentando.
+
 ![image](https://github.com/Valentinpodbielski/SPD/assets/124207059/3075c615-e4bf-45ba-93b3-938ac2889ee8)
 Tinkercad = https://www.tinkercad.com/things/6cTvgqJFkVc
