@@ -1,6 +1,6 @@
 # SPD
 
-Abajo se dispne de todos los links a los proyectos en el Tinkercad, sus explicaciones y usos.
+Abajo se dispone de todos los links a los proyectos en el Tinkercad, sus explicaciones y usos. La parte 1 es la del contador en los displays con los tres interruptores, la Parte 2 es la de la modificacion del interruptor dezlizante con los numeros primos, la Parte 3 que en si no habia parte 3, yo lo dividi como parte para ser mas prolijo, es lo mismo que la parte 2, pero con el motor CC integrado y la parte 4 es en la que incorporamos el sensor de fuerza. 
 
 
 
